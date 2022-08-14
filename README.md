@@ -1,9 +1,9 @@
 # hello_world
 
 <br>
-<img align="center" alt="Parampara Pratishtha Anushasan" src="https://github.com/Sh0urjya/hello_world/blob/main/main.png" />
+<img align="center" alt="Parampara Pratishtha Anushasan" src="https://github.com/Sh0urjya/hello_world/blob/main/misc/main.png" />
 <br>
-<h3> Hello there..! <img src="https://github.com/Sh0urjya/hello_world/blob/main/Hi.gif" width="29px"> </h3>
+<h3> Hello there..! <img src="https://github.com/Sh0urjya/hello_world/blob/main/misc/Hi.gif" width="29px"> </h3>
 <br>
 <p> As you know, in our coding word, we start with a ritual and that is <i>Hello World</i>. So hence we are here. You all can add your versions of hello_world programs in whichever language you want.
 <br><br><br><br>
